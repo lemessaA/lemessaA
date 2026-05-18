@@ -88,22 +88,90 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <br/>
 
-## Featured work
+## All projects
 
-<div align="center">
+> **36** public repositories — agents, apps, automation, and experiments.
 
-| | Project | Focus |
-|:---:|:---|:---|
-| 🤖 | [**Multi-Agent-system**](https://github.com/lemessaA/Multi-Agent-system) | Multi-agent orchestration |
-| 🔍 | [**rag-research-assistant**](https://github.com/lemessaA/rag-research-assistant) | RAG research assistant |
-| 🗄️ | [**sql_agent**](https://github.com/lemessaA/sql_agent) | Natural language → SQL |
-| 💰 | [**finance-Agent**](https://github.com/lemessaA/finance-Agent) | Finance AI agent |
-| 🎓 | [**campus_optimizer**](https://github.com/lemessaA/campus_optimizer) | Campus optimization |
-| 🥗 | [**Nutrition-coach-agent**](https://github.com/lemessaA/Nutrition-coach-agent) | Nutrition coaching agent |
-| ▶️ | [**youtube-agent**](https://github.com/lemessaA/youtube-agent) | YouTube agent workflow |
-| ⚡ | [**simple-agent**](https://github.com/lemessaA/simple-agent) | Minimal agent starter |
+<details open>
+<summary><b>🤖 AI agents & LLM systems</b></summary>
+<br/>
 
-</div>
+| Project | Stack | About |
+|:--------|:-----:|:------|
+| [**agentic**](https://github.com/lemessaA/agentic) | `Python` | Agentic AI workflows |
+| [**Multi-Agent-system**](https://github.com/lemessaA/Multi-Agent-system) | `Python` | Multi-agent orchestration |
+| [**Multi-Agent-systems**](https://github.com/lemessaA/Multi-Agent-systems) | `Python` | Multi-agent systems |
+| [**simple-agent**](https://github.com/lemessaA/simple-agent) | `Python` | Minimal agent starter |
+| [**sql_agent**](https://github.com/lemessaA/sql_agent) | `Python` | Natural language → SQL agent |
+| [**finance-Agent**](https://github.com/lemessaA/finance-Agent) | `Python` | Finance-focused AI agent |
+| [**finance-analysis**](https://github.com/lemessaA/finance-analysis) | `Python` | Financial data analysis |
+| [**Nutrition-coach-agent**](https://github.com/lemessaA/Nutrition-coach-agent) | `Python` | Nutrition coaching agent |
+| [**youtube-agent**](https://github.com/lemessaA/youtube-agent) | `Python` | YouTube agent workflow |
+| [**Email-Assistant**](https://github.com/lemessaA/Email-Assistant) | `Python` | Email automation assistant |
+| [**rag-research-assistant**](https://github.com/lemessaA/rag-research-assistant) | `TypeScript` | RAG-powered research assistant |
+| [**myfailed_rag_system**](https://github.com/lemessaA/myfailed_rag_system) | `Python` | RAG debugging experiment |
+| [**ai-contract-risk-detector**](https://github.com/lemessaA/ai-contract-risk-detector) | `Python` | AI contract risk detection |
+| [**Eastern-AI-Consultant**](https://github.com/lemessaA/Eastern-AI-Consultant) | `TypeScript` | AI consultant application |
+| [**Publication-Ass**](https://github.com/lemessaA/Publication-Ass) | `Python` | Publication assistant |
+| [**memory**](https://github.com/lemessaA/memory) | `Python` | Agent memory patterns |
+| [**proactive_recusive**](https://github.com/lemessaA/proactive_recusive) | `Python` | Proactive recursive agents |
+| [**prompt_programming**](https://github.com/lemessaA/prompt_programming) | `Python` | Prompt engineering practice |
+| [**visualize_graph**](https://github.com/lemessaA/visualize_graph) | `Python` | Graph visualization for agents |
+
+</details>
+
+<details open>
+<summary><b>🌐 Apps & full-stack projects</b></summary>
+<br/>
+
+| Project | Stack | About |
+|:--------|:-----:|:------|
+| [**Fair-Hiring**](https://github.com/lemessaA/Fair-Hiring) | `TypeScript` | Fair hiring platform |
+| [**job-mini-app**](https://github.com/lemessaA/job-mini-app) | `Python` | Job search mini application |
+| [**campus_optimizer**](https://github.com/lemessaA/campus_optimizer) | `Python` | Campus scheduling & optimization |
+| [**lab_management**](https://github.com/lemessaA/lab_management) | `—` | Lab management system |
+| [**lab-mangement**](https://github.com/lemessaA/lab-mangement) | `Python` | Lab management (variant) |
+| [**hicas**](https://github.com/lemessaA/hicas) | `—` | HICAS project |
+| [**hu**](https://github.com/lemessaA/hu) | `Python` | HU project |
+| [**sesa**](https://github.com/lemessaA/sesa) | `TypeScript` | SESA application |
+
+</details>
+
+<details>
+<summary><b>🔧 Tools & utilities</b></summary>
+<br/>
+
+| Project | Stack | About |
+|:--------|:-----:|:------|
+| [**file_organizer**](https://github.com/lemessaA/file_organizer) | `Python` | Automated file organizer |
+| [**joke**](https://github.com/lemessaA/joke) | `Python` | Joke generator bot |
+
+</details>
+
+<details>
+<summary><b>📚 Learning & coursework</b></summary>
+<br/>
+
+| Project | Stack | About |
+|:--------|:-----:|:------|
+| [**day1**](https://github.com/lemessaA/day1) | `Python` | Day 1 practice project |
+| [**day2**](https://github.com/lemessaA/day2) | `Python` | Day 2 practice project |
+| [**day7**](https://github.com/lemessaA/day7) | `Python` | Day 7 practice project |
+| [**rt-aaidc-project1**](https://github.com/lemessaA/rt-aaidc-project1) | `Python` | AAIDC program — project 1 |
+| [**test**](https://github.com/lemessaA/test) | `Python` | Sandbox / test repository |
+
+</details>
+
+<details>
+<summary><b>🔱 Forks</b></summary>
+<br/>
+
+| Project | Stack | About |
+|:--------|:-----:|:------|
+| [**aman-pay**](https://github.com/lemessaA/aman-pay) | `TypeScript` | Payment app (fork) |
+| [**rt-aaidc-project1-template**](https://github.com/lemessaA/rt-aaidc-project1-template) | `—` | AAIDC project 1 template (fork) |
+
+</details>
 
 <br/>
 
