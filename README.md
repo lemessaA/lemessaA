@@ -13,6 +13,8 @@ I build **scalable AI agents**, **workflow automations**, and **intelligent syst
 <br/><br/>
 
 <a href="https://github.com/lemessaA"><img src="https://img.shields.io/badge/GitHub-lemessaA-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/lemessa-ahmed-765476332"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Selfdebugger"><img src="https://img.shields.io/badge/X-@Selfdebugger-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:lemessaahmed34@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -124,8 +126,18 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 ### Connect
 
-<a href="https://github.com/lemessaA"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
-<a href="mailto:lemessaahmed34@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
+<p align="center">
+<table>
+<tr>
+  <td align="center" width="88"><a href="https://github.com/lemessaA"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="42"/><br/><sub><b>GitHub</b></sub></a></td>
+  <td align="center" width="88"><a href="https://www.linkedin.com/in/lemessa-ahmed-765476332"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42"/><br/><sub><b>LinkedIn</b></sub></a></td>
+  <td align="center" width="88"><a href="https://x.com/Selfdebugger"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="42"/><br/><sub><b>X</b></sub></a></td>
+  <td align="center" width="88"><a href="https://t.me/Selfdebugger"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/><br/><sub><b>Telegram</b></sub></a></td>
+  <td align="center" width="88"><a href="https://wa.me/251934086836"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42"/><br/><sub><b>WhatsApp</b></sub></a></td>
+  <td align="center" width="88"><a href="mailto:lemessaahmed34@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/><br/><sub><b>Email</b></sub></a></td>
+</tr>
+</table>
+</p>
 
 <br/><br/>
 
