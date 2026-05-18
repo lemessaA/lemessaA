@@ -87,13 +87,20 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <br/><br/>
 
-<!-- Animated snake from your contribution grid (updated daily via GitHub Actions) -->
+<!-- Live yearly contribution chart (real GitHub data) -->
+<a href="https://github.com/lemessaA">
+  <img src="https://ghchart.rshah.org/lemessaA" alt="Live yearly GitHub contribution chart" />
+</a>
+
+<br/><br/>
+
+<!-- Animated contribution snake (auto-updates when GitHub Actions is enabled) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg" />
   <img
     src="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg"
-    alt="Contribution snake animation from real GitHub data"
+    alt="Contribution snake animation"
   />
 </picture>
 
