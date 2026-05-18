@@ -130,7 +130,7 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 <table>
 <tr>
   <td align="center" width="88"><a href="https://github.com/lemessaA"><img src="https://cdn.simpleicons.org/github/E2E8F0" height="42"/><br/><sub><b>GitHub</b></sub></a></td>
-  <td align="center" width="88"><a href="https://www.linkedin.com/in/lemessa-ahmed-765476332"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42"/><br/><sub><b>LinkedIn</b></sub></a></td>
+  <td align="center" width="88"><a href="https://www.linkedin.com/in/lemessa-ahmed-765476332"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/linkedin.svg" height="42" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub></a></td>
   <td align="center" width="88"><a href="https://x.com/Selfdebugger"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="42"/><br/><sub><b>X</b></sub></a></td>
   <td align="center" width="88"><a href="https://t.me/Selfdebugger"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="42"/><br/><sub><b>Telegram</b></sub></a></td>
   <td align="center" width="88"><a href="https://wa.me/251934086836"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="42"/><br/><sub><b>WhatsApp</b></sub></a></td>
