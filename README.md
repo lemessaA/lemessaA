@@ -77,12 +77,67 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lemessaA&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&count_private=true" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lemessaA&theme=transparent&hide_border=true&background=0f172a&stroke=334155&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E2E8F0&currStreakNum=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" height="170"/>
+<!-- Live contribution timeline from your real GitHub activity -->
+<a href="https://github.com/lemessaA">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lemessaA&bg_color=0f172a&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity&x_anim=true"
+    alt="Live GitHub contribution activity graph"
+  />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemessaA&layout=compact&theme=transparent&hide_border=true&bg_color=0f172a&title_color=A78BFA&text_color=E2E8F0&langs_count=8" alt="Top languages"/>
+<!-- Animated snake from your contribution grid (updated daily via GitHub Actions) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg"
+    alt="Contribution snake animation from real GitHub data"
+  />
+</picture>
+
+<br/><br/>
+
+<!-- Live stats (replaces paused github-readme-stats.vercel.app) -->
+<a href="https://github.com/lemessaA">
+  <img
+    src="https://streak-stats.demolab.com/?user=lemessaA&hide_border=true&background=0f172a&stroke=334155&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E2E8F0&currStreakNum=FFFFFF&sideLabels=94A3B8&dates=64748B"
+    alt="GitHub commit streak"
+    height="165"
+  />
+</a>
+<a href="https://github.com/lemessaA">
+  <img
+    src="https://github-stats-card.vercel.app/api?username=lemessaA&show_icons=true&hide_border=true&bg_color=0f172a&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github"
+    alt="Live GitHub profile stats"
+    height="165"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/lemessaA?tab=repositories">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemessaA&theme=transparent"
+    alt="Profile details from GitHub API"
+  />
+</a>
+<a href="https://github.com/lemessaA?tab=repositories">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemessaA&theme=transparent"
+    alt="Top languages from repositories"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/lemessaA">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=lemessaA&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"
+    alt="GitHub profile trophies"
+  />
+</a>
 
 </div>
 
