@@ -32,6 +32,37 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <br/>
 
+## AI engineering mindset
+
+<div align="center">
+
+> *Inspired by the challenge of turning powerful models into reliable systems that create real-world impact.*
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <b>🧠 Build</b><br/>
+      <sub>Agentic systems and useful AI products</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🔬 Evaluate</b><br/>
+      <sub>Measure quality, safety, and model behavior</sub>
+    </td>
+    <td align="center" width="180">
+      <b>⚙️ Automate</b><br/>
+      <sub>Connect tools, APIs, and business workflows</sub>
+    </td>
+    <td align="center" width="180">
+      <b>🚀 Scale</b><br/>
+      <sub>Ship dependable systems people can trust</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 ## Tools & stack
 
 ### Core development
