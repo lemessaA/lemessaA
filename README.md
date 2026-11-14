@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Agentic+AI+Engineer+%26+Automation+Builder;Scalable+AI+agents+%26+intelligent+workflows;Python+%C2%B7+FastAPI+%C2%B7+LangGraph+%C2%B7+n8n+%C2%B7+Next.js" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Agentic+AI+Engineer+%26+Automation+Builder;Scalable+AI+agents+%26+intelligent+workflows;TypeScript+%C2%B7+NestJS+%C2%B7+Prisma+%C2%B7+Next.js" alt="Typing intro" />
 
 <br/><br/>
 
@@ -26,7 +26,7 @@ I build **scalable AI agents**, **workflow automations**, and **intelligent syst
 ```yaml
 role:     Agentic AI Engineer & Automation Builder
 focus:    AI agents · workflow automation · intelligent ops
-stack:    Python · FastAPI · LangChain · LangGraph · n8n · Next.js
+stack:    Python · TypeScript · NestJS · Prisma · FastAPI · LangChain · LangGraph · n8n · Next.js
 builds:   Systems that connect tools, APIs, and real-world business logic
 ```
 
@@ -38,7 +38,7 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,react,nodejs&theme=dark&perline=6" height="52" alt="Python, FastAPI, Next.js, TypeScript, React, Node.js"/>
+    <img src="https://skillicons.dev/icons?i=python,ts,nestjs,prisma,fastapi,nextjs,react,nodejs&theme=dark&perline=8" height="52" alt="Python, TypeScript, NestJS, Prisma, FastAPI, Next.js, React, Node.js"/>
   </a>
 </p>
 
@@ -156,7 +156,7 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 ```
 🧠  Agentic systems     →  LangChain · LangGraph · LangSmith
-⚡  Product backends    →  FastAPI · PostgreSQL · Docker
+⚡  Product backends    →  NestJS · Prisma · FastAPI · PostgreSQL · Docker
 🌐  Interfaces          →  Next.js · TypeScript · React
 🔄  Ops automation      →  n8n · OpenClaw · API integrations
 ```
