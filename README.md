@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Agentic+AI+Engineer+%26+Automation+Builder;Scalable+AI+agents+%26+intelligent+workflows;TypeScript+%C2%B7+NestJS+%C2%B7+Prisma+%C2%B7+Next.js" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Agentic+AI+Engineer+%26+Automation+Builder;AI+agents+%C2%B7+model+fine-tuning+%C2%B7+intelligent+workflows;TypeScript+%C2%B7+NestJS+%C2%B7+Prisma+%C2%B7+Next.js" alt="Typing intro" />
 
 <br/><br/>
 
@@ -25,7 +25,7 @@ I build **scalable AI agents**, **workflow automations**, and **intelligent syst
 
 ```yaml
 role:     Agentic AI Engineer & Automation Builder
-focus:    AI agents · workflow automation · intelligent ops
+focus:    AI agents · model fine-tuning · workflow automation · intelligent ops
 stack:    Python · TypeScript · NestJS · Prisma · FastAPI · LangChain · LangGraph · n8n · Next.js
 builds:   Systems that connect tools, APIs, and real-world business logic
 ```
@@ -156,6 +156,7 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 ```
 🧠  Agentic systems     →  LangChain · LangGraph · LangSmith
+🎯  Model development  →  Fine-tuning · evaluation · deployment
 ⚡  Product backends    →  NestJS · Prisma · FastAPI · PostgreSQL · Docker
 🌐  Interfaces          →  Next.js · TypeScript · React
 🔄  Ops automation      →  n8n · OpenClaw · API integrations
