@@ -84,18 +84,6 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <br/><br/>
 
-<!-- Animated contribution snake (auto-updates when GitHub Actions is enabled) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg" />
-  <img
-    src="https://raw.githubusercontent.com/lemessaA/lemessaA/output/github-snake.svg"
-    alt="Contribution snake animation"
-  />
-</picture>
-
-<br/><br/>
-
 <!-- Live stats (replaces paused github-readme-stats.vercel.app) -->
 <a href="https://github.com/lemessaA">
   <img
