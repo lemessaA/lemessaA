@@ -77,16 +77,6 @@ builds:   Systems that connect tools, APIs, and real-world business logic
 
 <div align="center">
 
-<!-- Live contribution timeline from your real GitHub activity -->
-<a href="https://github.com/lemessaA">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lemessaA&bg_color=0f172a&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity&x_anim=true"
-    alt="Live GitHub contribution activity graph"
-  />
-</a>
-
-<br/><br/>
-
 <!-- Live yearly contribution chart (real GitHub data) -->
 <a href="https://github.com/lemessaA">
   <img src="https://ghchart.rshah.org/lemessaA" alt="Live yearly GitHub contribution chart" />
@@ -134,15 +124,6 @@ builds:   Systems that connect tools, APIs, and real-world business logic
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemessaA&theme=transparent"
     alt="Top languages from repositories"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/lemessaA">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=lemessaA&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"
-    alt="GitHub profile trophies"
   />
 </a>
 
